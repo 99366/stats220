@@ -1,25 +1,27 @@
-# **Hello**
-### Welcome to my Stats220 Website
+# **✨Hello World ! Hello Friends !✨**
+#### Welcome to my Stats220 Website!🤗🤗🤗
 
-## About me
-### I am a sophomore majoring in statistics.
+## 👁️‍🗨️About me👁️‍🗨️
+
+### 👩‍🎓 I am a sophomore majoring in statistics 📡.
 ![stats](https://i.pinimg.com/originals/1e/30/41/1e3041cbac01fb863fbd2edfc6ae9236.jpg)
-### At free time, I like to watch comedies, talk shows and animations. They make me happy. 
-![animation](https://media.makeameme.org/created/go-watch-anime.jpg）
+### 📽️ At free time, I like to watch comedies, talk shows and animations, and read books. They make me happy. 😀
+![animation](https://media.makeameme.org/created/go-watch-anime.jpg)
 
-## My image
+## 🖼️ My image 🎭
 
-### Here is my image. Did you guess correctly?
-### It is about ANIMATIONS.
+### Here is my image. Did you guess correctly? 🤔
+### It is about `🎉ANIMATIONS🎉`. 
 
-![](my_meme.png)
+![myimage](my_meme.png)
 
-## Information about the image
+## 📜Information about the image 🔖
 
-### R Package
-#### I made this image by using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+### R Package 📦
 
-### R Code
+#### I made this image by using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)📦.
+
+### R Code 💻
 ```
 library(magick)
 
@@ -75,12 +77,14 @@ final_image
 image_write(final_image, "my_meme.png")
 ```
 
-### Inspirations and Motivations for the meme
-#### 1. The inspiration is from the topic "Top 40 songs" in the lecture. 
-#### 2. Recently, my younger sister started to study English, but she prefers to watch TV.
-#### 3. I come up with an idea which is combining two things together ———— watching English animations
-#### 4. The appearance of my meme is from a [picture online](https://sportsbrowser.net/wp-content/uploads/2021/10/most-popular-sports-in-america-infographics_5283a.png)
-#### 5. I collect the animations, arrange them, code and make this image. 
+### Inspirations and Motivations for the Image 👣👣👣👣
+
+#### 1. The inspiration is from the topic "Top 40 songs" in the lecture🎶🎶🎶🎶.
+#### 2. Recently, my younger sister started to study English, but she prefers to watch TV. 📙 or 📺?
+#### 3. I came up with an idea to combine two things—watching English animations 💡.
+#### 4. The inspiration for the appearance of my image is from a [picture online](https://sportsbrowser.net/wp-content/uploads/2021/10/most-popular-sports-in-america-infographics_5283a.png) 🖼️.
+#### 5. I collect the animations pictures, arrange them, code and make this final image📝📝📝📝📝🖼️. 
+
 
 
 
