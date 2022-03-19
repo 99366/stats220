@@ -83,7 +83,7 @@ image_write(final_image, "my_meme.png")
 #### 2. Recently, my younger sister started to study English, but she preferred to watch TV. 📙 or 📺?
 #### 3. I came up with an idea to combine two things—watching English animations 💡.
 #### 4. The inspiration for the appearance of my meme was from a [picture online](https://sportsbrowser.net/wp-content/uploads/2021/10/most-popular-sports-in-america-infographics_5283a.png) 🖼️.
-#### 5. I collected the animations pictures, arranged, coded and made this final meme📝📝📝📝📝🖼️. 
+#### 5. I collected the animations pictures, arranged them, coded and made this final meme📝📝📝📝📝🖼️. 
 
 
 
