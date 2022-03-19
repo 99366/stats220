@@ -7,13 +7,14 @@
 
 ### `A little riddle🎁: What is my assignment about?🤔`
 
-#### *three hints:*
+#### *Three hints:*
 
 * **laughing 😆**
 * **baby & children & adults love it👶🧒🧑**
 * **television 📺**
 
 ### `Have you guessed what it is yet？💫`
+
 
 ## Look! Here is my 👉[stats220 website](https://99366.github.io/stats220/)👈
 
