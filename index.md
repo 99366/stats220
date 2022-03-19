@@ -8,18 +8,18 @@
 ### 📽️ At free time, I like to watch comedies, talk shows and animations, and read books. They make me happy. 😀
 ![animation](https://media.makeameme.org/created/go-watch-anime.jpg)
 
-## 🖼️ My image 🎭
+## 🖼️ My meme 🎭
 
-### Here is my image. Did you guess correctly? 🤔
+### Here is my meme. Did you guess correctly? 🤔
 ### It is about `🎉ANIMATIONS🎉`. 
 
-![myimage](my_meme.png)
+![mymeme](my_meme.png)
 
-## 📜Information about the image 🔖
+## 📜Information about the meme 🔖
 
 ### R Package 📦
 
-#### I made this image by using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)📦.
+#### I made this meme by using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)📦.
 
 ### R Code 💻
 ```
@@ -77,13 +77,13 @@ final_image
 image_write(final_image, "my_meme.png")
 ```
 
-### Inspirations and Motivations for the Image 👣👣👣👣
+### Inspirations and Motivations for the meme 👣👣👣👣
 
 #### 1. The inspiration was from the topic "Top 40 songs" in the lecture🎶🎶🎶🎶.
 #### 2. Recently, my younger sister started to study English, but she preferred to watch TV. 📙 or 📺?
 #### 3. I came up with an idea to combine two things—watching English animations 💡.
-#### 4. The inspiration for the appearance of my image was from a [picture online](https://sportsbrowser.net/wp-content/uploads/2021/10/most-popular-sports-in-america-infographics_5283a.png) 🖼️.
-#### 5. I collected the animations pictures, arranged, coded and made this final image📝📝📝📝📝🖼️. 
+#### 4. The inspiration for the appearance of my meme was from a [picture online](https://sportsbrowser.net/wp-content/uploads/2021/10/most-popular-sports-in-america-infographics_5283a.png) 🖼️.
+#### 5. I collected the animations pictures, arranged, coded and made this final meme📝📝📝📝📝🖼️. 
 
 
 
