@@ -79,11 +79,11 @@ image_write(final_image, "my_meme.png")
 
 ### Inspirations and Motivations for the Image 👣👣👣👣
 
-#### 1. The inspiration is from the topic "Top 40 songs" in the lecture🎶🎶🎶🎶.
-#### 2. Recently, my younger sister started to study English, but she prefers to watch TV. 📙 or 📺?
+#### 1. The inspiration was from the topic "Top 40 songs" in the lecture🎶🎶🎶🎶.
+#### 2. Recently, my younger sister started to study English, but she preferred to watch TV. 📙 or 📺?
 #### 3. I came up with an idea to combine two things—watching English animations 💡.
-#### 4. The inspiration for the appearance of my image is from a [picture online](https://sportsbrowser.net/wp-content/uploads/2021/10/most-popular-sports-in-america-infographics_5283a.png) 🖼️.
-#### 5. I collect the animations pictures, arrange them, code and make this final image📝📝📝📝📝🖼️. 
+#### 4. The inspiration for the appearance of my image was from a [picture online](https://sportsbrowser.net/wp-content/uploads/2021/10/most-popular-sports-in-america-infographics_5283a.png) 🖼️.
+#### 5. I collected the animations pictures, arranged, coded and made this final image📝📝📝📝📝🖼️. 
 
 
 
