@@ -6,3 +6,5 @@
 As you can see, my meme is about my top 5 faviourite animations. 
 
 ![](my_meme.png)
+
+This meme I used R package[{magick}]
