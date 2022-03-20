@@ -59,7 +59,8 @@ num5_content <- image_blank(width = 400, height = 169, color = "#585D62") %>%
   image_annotate(text = "Family Guy", color = "#F0EDDB", size = 30, font = "Comic Sans", gravity = "center")
   
 title_block <- image_blank(width = 869, height = 100, color = "#383733") %>% 
-  image_annotate(text = "My Top 5 Favorite animations", color = "#F0EDDB", size = 50, font = "Palatino", weight = 700, gravity = "center")
+  image_annotate(text = "My Top 5 Favorite animations", color = "#F0EDDB", 
+                 size = 50, font = "Palatino", weight = 700, gravity = "center")
 white_block <- image_blank(width = 869, height = 10, color = "#F0EDDB")
 
 first_row <- c(num1_block, num1_content, futurama) %>% image_append()
